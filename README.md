@@ -1,0 +1,5 @@
+# Imaging Physics Research at M.D. Anderson Cancer Center
+
+I collaborated with my mentor to design an IVIM-MRI perfusion phantom, to acquire images of phantom using 3 Tesla MRI scanner, and to process image data using Amira, ITK-SNAP, ANTs, and my own MATLAB scripts. Spent one summer investigating methods to derive relevant perfusion parameters from image data for application in biothermal tumor models (research submitted to EMBC conference). Spent the next summer investigating the feasibility of IVIM-MRI as an alternate method for differentiating healthy and ablated tissue in tumor cryoablations (research submitted to ISMRM conference).
+
+Publication: S. Ranmuthu, S. Fahrenholtz, and R. J. Stafford, “Development of IVIM for Perfusion Measurement in Thermal Therapies”, 36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society. 2014. 
